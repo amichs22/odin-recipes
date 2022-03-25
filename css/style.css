@@ -6,6 +6,10 @@
     font-family: "Lucida Handwriting", Verdana, "Times New Roman", sans-serif;
 }
 
+#page {
+    background-color: rgb(178, 111, 192);
+}
+
 .recipe1,
 .recipe2,
 .recipe3 {
@@ -72,5 +76,5 @@ p {
 }
 
 li {
-   color: red; 
+   color: yellow; 
 }
